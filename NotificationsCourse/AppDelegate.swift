@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import UserNotifications
+import UserNotificationsg
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
     let notificationCenter = UNUserNotificationCenter.current()
