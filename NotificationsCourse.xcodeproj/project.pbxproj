@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA5A1D252B6A6015000790DD /* Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5A1D242B6A6015000790DD /* Notifications.swift */; };
 		FAF5983D2B693D8A007E85BE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF5983C2B693D8A007E85BE /* AppDelegate.swift */; };
 		FAF598442B693D8A007E85BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAF598422B693D8A007E85BE /* Main.storyboard */; };
 		FAF598462B693D8C007E85BE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAF598452B693D8C007E85BE /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA5A1D242B6A6015000790DD /* Notifications.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notifications.swift; sourceTree = "<group>"; };
 		FAF598392B693D8A007E85BE /* NotificationsCourse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotificationsCourse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAF5983C2B693D8A007E85BE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAF598432B693D8A007E85BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				FAF598452B693D8C007E85BE /* Assets.xcassets */,
 				FAF598472B693D8C007E85BE /* LaunchScreen.storyboard */,
 				FAF5984A2B693D8C007E85BE /* Info.plist */,
+				FA5A1D242B6A6015000790DD /* Notifications.swift */,
 			);
 			path = NotificationsCourse;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA5A1D252B6A6015000790DD /* Notifications.swift in Sources */,
 				FAF5983D2B693D8A007E85BE /* AppDelegate.swift in Sources */,
 				FAF598512B693E20007E85BE /* TableViewController.swift in Sources */,
 			);
